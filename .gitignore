@@ -1,0 +1,4 @@
+*.sqlite3
+.vscode/
+__pychache__/
+*.py[co]
